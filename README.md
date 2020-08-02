@@ -1,2 +1,2 @@
-# spark-experiments-updated
-State-of-the-art experiments on spark components using python
+# PySpark-and-MLlib
+Getting start with PySpark and MLlib
